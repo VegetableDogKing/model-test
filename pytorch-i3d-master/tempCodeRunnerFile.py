@@ -1,0 +1,1 @@
+'pytorch-i3d-master/models/rgb_imagenet.pt'
