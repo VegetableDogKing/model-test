@@ -1,1 +1,0 @@
-ffmpeg -i Left\ gaze.avi -ss 00:01:16 -to 00:01:59 -async 1 31716946_03.mp4
